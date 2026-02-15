@@ -62,25 +62,33 @@ Me motiva aprender, experimentar y aplicar herramientas digitales en contextos e
 
 ## 🔥 Featured Projects
 
-[![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-BI-blue)]()
-◻️ *De Prati* – Implementé metodología de BI, KPIs y análisis de datos para reducir el abandono de carrito. 
-📅 24/11/2025
- 
+### 📊 Business Intelligence  
+**Proyecto Business Intelligence – De Prati (Experiencia del Cliente)**  
+Implementación de metodología BI, definición de KPIs y análisis estratégico orientado a mejorar la experiencia del cliente.  
+📅 24/11/2025  
+🔗 [Ver proyecto](https://github.com/MADITA843/Proyecto-Business-Intelligence)
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue)]()
-◻️ *Project SafeClaim* – Análisis de reclamaciones de seguros para detectar patrones, comportamientos y posibles fraudes. 
-📅 13/11/2025
+---
 
+### 📊 Data Visualization  
+**Proyecto Data Visualization**  
+Análisis y visualización de datos mediante dashboards y métricas clave para la toma de decisiones.  
+🔗 [Ver proyecto](https://github.com/MADITA843/Proyecto-Data-Visualization)
 
+---
 
-[![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white)]()
-◻️ *Gestión de Residuos* – SQL para identificar patrones de generación y mejorar la eficiencia en la gestión de residuos.  
-📅 20/09/2025
+### 🗄 MySQL  
+**Proyecto MySQL – Diseño y consultas SQL**  
+Creación de base de datos relacional y consultas para análisis de información.  
+🔗 [Ver proyecto](https://github.com/MADITA843/Proyecto-MySQL)
 
- 
-[![Excel](https://img.shields.io/badge/Excel-Data%20Analytics-217346?logo=microsoft-excel&logoColor=white)]()
-◻️ *Grocery Sales Analysis* – Dashboards con Excel avanzado para ventas, ROI y clientes.  
-📅 23/08/2025  
+---
+
+### 📈 Excel  
+**Proyecto Excel – Análisis de Ventas**  
+Dashboards y análisis con Excel avanzado para evaluar ventas y rendimiento.  
+🔗 [Ver proyecto](https://github.com/MADITA843/Proyecto-Excel)
+
 
 ---
 
